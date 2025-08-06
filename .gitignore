@@ -1,0 +1,11 @@
+# Archivo de variables de entorno (contiene secretos)
+.env
+
+# Carpeta del entorno virtual de Python
+venv/
+
+# Archivo de sesión de Instagrapi (puede contener información sensible)
+session.json
+
+# Caché de Python
+__pycache__/
