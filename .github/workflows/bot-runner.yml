@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
   # Ejecuta el bot todos los días a las 08:00 UTC (puedes ajustar la hora)
-  schedule:
-    - cron: '0 23 * * *'
+  #schedule:
+    #- cron: '0 23 * * *'
 
 jobs:
   run-bot:
